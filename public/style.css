@@ -1,0 +1,29 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{
+	color: #D86A6A;
+	text-align: center;
+}
+
+header{
+	height: 100px;
+	background-color: grey;
+	color:white;
+}
+
+nav{
+	background-color: #ccb;
+}
+nav ul li{
+	display: inline-block;
+}
+
+.error {
+	color:black;
+}
